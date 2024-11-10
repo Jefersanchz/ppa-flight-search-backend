@@ -62,3 +62,5 @@ springdoc.api-docs.path=/api-docs
 springdoc.swagger-ui.path=/ppa-flight
 # Puerto del servidor
 server.port=9000
+# Documentación backend
+http://ec2-18-191-234-202.us-east-2.compute.amazonaws.com:9000/swagger-ui/index.html#
